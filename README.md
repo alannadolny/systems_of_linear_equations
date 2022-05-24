@@ -1,0 +1,16 @@
+# SYSTEMS OF LINEAR EQUATIONS
+
+## SPIS TREŚCI
+
+- [UŻYTE TECHNOLOGIE / BIBLIOTEKI](#użyte-technologie-/-biblioteki)
+- [KONCEPCJA PROJEKTU](#koncepcja-projektu)
+- [CEL PROJEKTU](#cel-projektu)
+- [STATUS PROJEKTU](#status-projektu)
+
+## UŻYTE TECHNOLOGIE / BLIBLOTEKI
+
+## KONCEPCJA PROJEKTU
+
+## CEL PROJEKTU
+
+## STATUS PROJEKTU
