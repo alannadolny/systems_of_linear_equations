@@ -1,0 +1,204 @@
+obliczanie dla 50 elementow double
+1/3 policzono
+2/3 policzono
+[1, 4, 44]
+Przygotowano dane dla 50 elementow typu double
+obliczanie dla 50 elementow Fractions
+1/3 policzono
+2/3 policzono
+[14, 23, 527]
+Przygotowano dane dla 50 elementow typu Fractions
+obliczanie dla 50 elementow float
+1/3 policzono
+2/3 policzono
+[2, 3, 94]
+Przygotowano dane dla 50 elementow typu float
+A * X, biblioteka 50 elementow: 4
+(A + B + C) * X, biblioteka 50 elementow: 1
+A * (B * C), biblioteka 50 elementow: 7
+rozwiazywanie dla 50 elementow
+1 / 3 policzono
+2 / 3 policzono
+[23, 8, 15]
+Obliczono dane dla 50 double
+rozwiazywanie dla 50 elementow
+1 / 3 policzono
+2 / 3 policzono
+[5, 6, 16]
+Obliczono dane dla 50 Float
+rozwiazywanie dla 50 elementow
+1 / 3 policzono
+2 / 3 policzono
+[1704, 1673, 2121]
+Obliczono dane dla 50 Fractions
+G, biblioteka 50 elementow: 6
+obliczanie dla 100 elementow double
+1/3 policzono
+2/3 policzono
+[1, 6, 86]
+Przygotowano dane dla 100 elementow typu double
+obliczanie dla 100 elementow Fractions
+1/3 policzono
+2/3 policzono
+[19, 22, 2771]
+Przygotowano dane dla 100 elementow typu Fractions
+obliczanie dla 100 elementow float
+1/3 policzono
+2/3 policzono
+[0, 5, 86]
+Przygotowano dane dla 100 elementow typu float
+A * X, biblioteka 100 elementow: 1
+(A + B + C) * X, biblioteka 100 elementow: 1
+A * (B * C), biblioteka 100 elementow: 1
+rozwiazywanie dla 100 elementow
+1 / 3 policzono
+2 / 3 policzono
+[18, 17, 40]
+Obliczono dane dla 100 double
+rozwiazywanie dla 100 elementow
+1 / 3 policzono
+2 / 3 policzono
+[16, 18, 27]
+Obliczono dane dla 100 Float
+rozwiazywanie dla 100 elementow
+1 / 3 policzono
+2 / 3 policzono
+[38659, 38176, 47295]
+Obliczono dane dla 100 Fractions
+G, biblioteka 100 elementow: 7
+obliczanie dla 150 elementow double
+1/3 policzono
+2/3 policzono
+[1, 5, 436]
+Przygotowano dane dla 150 elementow typu double
+obliczanie dla 150 elementow Fractions
+1/3 policzono
+2/3 policzono
+[26, 60, 9289]
+Przygotowano dane dla 150 elementow typu Fractions
+obliczanie dla 150 elementow float
+1/3 policzono
+2/3 policzono
+[1, 4, 651]
+Przygotowano dane dla 150 elementow typu float
+A * X, biblioteka 150 elementow: 1
+(A + B + C) * X, biblioteka 150 elementow: 4
+A * (B * C), biblioteka 150 elementow: 4
+rozwiazywanie dla 150 elementow
+1 / 3 policzono
+2 / 3 policzono
+[73, 81, 132]
+Obliczono dane dla 150 double
+rozwiazywanie dla 150 elementow
+1 / 3 policzono
+2 / 3 policzono
+[69, 76, 206]
+Obliczono dane dla 150 Float
+rozwiazywanie dla 150 elementow
+1 / 3 policzono
+2 / 3 policzono
+[249541, 263989, 335680]
+Obliczono dane dla 150 Fractions
+G, biblioteka 150 elementow: 4
+obliczanie dla 200 elementow double
+1/3 policzono
+2/3 policzono
+[2, 8, 1891]
+Przygotowano dane dla 200 elementow typu double
+obliczanie dla 200 elementow Fractions
+1/3 policzono
+2/3 policzono
+[55, 142, 24593]
+Przygotowano dane dla 200 elementow typu Fractions
+obliczanie dla 200 elementow float
+1/3 policzono
+2/3 policzono
+[1, 7, 1981]
+Przygotowano dane dla 200 elementow typu float
+A * X, biblioteka 200 elementow: 1
+(A + B + C) * X, biblioteka 200 elementow: 0
+A * (B * C), biblioteka 200 elementow: 6
+rozwiazywanie dla 200 elementow
+1 / 3 policzono
+2 / 3 policzono
+[188, 170, 443]
+Obliczono dane dla 200 double
+rozwiazywanie dla 200 elementow
+1 / 3 policzono
+2 / 3 policzono
+[182, 209, 666]
+Obliczono dane dla 200 Float
+rozwiazywanie dla 200 elementow
+1 / 3 policzono
+2 / 3 policzono
+[1022136, 1025373, 1275770]
+Obliczono dane dla 200 Fractions
+G, biblioteka 200 elementow: 3
+obliczanie dla 250 elementow double
+1/3 policzono
+2/3 policzono
+[3, 9, 1848]
+Przygotowano dane dla 250 elementow typu double
+obliczanie dla 250 elementow Fractions
+1/3 policzono
+2/3 policzono
+[69, 146, 40566]
+Przygotowano dane dla 250 elementow typu Fractions
+obliczanie dla 250 elementow float
+1/3 policzono
+2/3 policzono
+[3, 9, 2056]
+Przygotowano dane dla 250 elementow typu float
+A * X, biblioteka 250 elementow: 0
+(A + B + C) * X, biblioteka 250 elementow: 1
+A * (B * C), biblioteka 250 elementow: 11
+rozwiazywanie dla 250 elementow
+1 / 3 policzono
+2 / 3 policzono
+[333, 318, 667]
+Obliczono dane dla 250 double
+rozwiazywanie dla 250 elementow
+1 / 3 policzono
+2 / 3 policzono
+[279, 278, 579]
+Obliczono dane dla 250 Float
+rozwiazywanie dla 250 elementow
+1 / 3 policzono
+2 / 3 policzono
+[2902776, 2995357, 3619078]
+Obliczono dane dla 250 Fractions
+G, biblioteka 250 elementow: 6
+obliczanie dla 300 elementow double
+1/3 policzono
+2/3 policzono
+[3, 13, 5258]
+Przygotowano dane dla 300 elementow typu double
+obliczanie dla 300 elementow Fractions
+1/3 policzono
+2/3 policzono
+[305, 157, 70863]
+Przygotowano dane dla 300 elementow typu Fractions
+obliczanie dla 300 elementow float
+1/3 policzono
+2/3 policzono
+[4, 13, 4373]
+Przygotowano dane dla 300 elementow typu float
+A * X, biblioteka 300 elementow: 0
+(A + B + C) * X, biblioteka 300 elementow: 0
+A * (B * C), biblioteka 300 elementow: 19
+rozwiazywanie dla 300 elementow
+1 / 3 policzono
+2 / 3 policzono
+[530, 524, 1000]
+Obliczono dane dla 300 double
+rozwiazywanie dla 300 elementow
+1 / 3 policzono
+2 / 3 policzono
+[548, 513, 875]
+Obliczono dane dla 300 Float
+rozwiazywanie dla 300 elementow
+1 / 3 policzono
+2 / 3 policzono
+[6909246, 6896668, 8216756]
+Obliczono dane dla 300 Fractions
+G, biblioteka 300 elementow: 11
